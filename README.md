@@ -7,6 +7,7 @@ NuMicro 8051 Family BSP / Sample Code
 **ML51**
 - [ML51 BSP KEIL](https://github.com/OpenNuvoton/ML51_BSP_KEIL)
 - [ML51 BSP IAR](https://github.com/OpenNuvoton/ML51_BSP_IAR)
+- [ML51 BSP NuEclipse](https://github.com/OpenNuvoton/ML51BSP_NuEclipse)
 
 **MS51**
 - [MS51 BSP KEIL](https://github.com/OpenNuvoton/MS51BSP_KEIL)
