@@ -1,9 +1,7 @@
 NuMicro 8051 Family BSP / Sample Code
 -------------------
 **MG51**
-- [MG51 BSP KEIL](https://github.com/OpenNuvoton/MG51_BSP_KEIL)
-- [MG51 BSP IAR](https://github.com/OpenNuvoton/MG51_BSP_IAR)
-- [MG51 BSP NuEclipse](https://github.com/OpenNuvoton/MG51_BSP_NuEclipse)
+- [MG51 BSP](https://github.com/OpenNuvoton/MG51)
 
 **MUG51**
 - [MUG51 BSP KEIL](https://github.com/OpenNuvoton/MUG51_BSP_KEIL)
