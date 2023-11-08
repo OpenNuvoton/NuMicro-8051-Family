@@ -18,5 +18,5 @@ NuMicro 8051 Family BSP / Sample Code
 - [MS51 BSP NuEclipse](https://github.com/OpenNuvoton/MS51BSP_NuEclipse)
 
 **N76E003**
-- [N76E003 BSP v2.0](https://github.com/OpenNuvoton/N76E003_BSP)
+- [N76E003 BSP V2.0](https://github.com/OpenNuvoton/N76E003_BSP)
 
