@@ -1,10 +1,10 @@
-**CM1003**
-- [CM1003 BSP](https://github.com/OpenNuvoton/CM1003_BSP)
-
 NuMicro 8051 Family BSP / Sample Code
 -------------------
 **MG51**
 - [MG51 BSP](https://github.com/OpenNuvoton/MG51)
+  
+**CM1003**
+- [CM1003 BSP](https://github.com/OpenNuvoton/CM1003_BSP)
   
 **MUG51**
 - [MUG51 BSP KEIL](https://github.com/OpenNuvoton/MUG51_BSP_KEIL)
